@@ -13,14 +13,6 @@
     </style>
 </head>
 <body>
-    <h1>Aperte para interagir</h1>
-    <button onclick="clicou()">  Clica aqui!</button>
-    <script>
-        function inicio() {
-           let nome = window.prompt('Qual o seu nome?')
-           window.alert ('Olá, ${nome}!É um prazer te conhecer!')
-        }
-    </script>
     <h1>Olá, Mundo!</h1>
     <hr>
     <p>Que seja uma jornada espetacular!
@@ -36,6 +28,17 @@
         window.confirm ('sim!')
         window.confirm ('não!')
         window.prompt ("Qual é o seu nome?")
-    </script> 
+    </script>
+    <body>
+        <h1>Clicar para interagir</h1> 
+    <button onclick="inicio()">Clique aqui</button>
+    <Script>
+         function inicio () {
+            let nome = window.prompt ('Qual é o seu nome? ')
+            window.alert('Olá, ${nome} ! É um prazer te conhecer') 
+         }
+    </Script>
+    </body>
+    
 </body>
 </html>
