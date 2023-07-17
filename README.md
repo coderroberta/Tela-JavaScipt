@@ -19,11 +19,17 @@
     É a força do sonho que nos impulsiona e leva nossa mente longe.
 
  2- Interatividade com o usuário a saber algumas informações conforme descrito abaixo:
+
+     'Primeiro comando JavaScrip
+        window.confirm para perguntar "Está gostando de JavaScript?"
+        window.confirm para que o usuário responda 'sim!'
+        window.confirm para que o usuário responda'não!'
+        window.prompt para que o usúario responda "Qual é o seu nome?"
  
  
 
  
  
- Repositório criado para verificação do meu conhecimento neste momento como Desenvolvedor
+
 
  ESSA LINHA FOI INSERIDA NA TELA DO GITHUB
